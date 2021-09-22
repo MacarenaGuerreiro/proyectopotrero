@@ -1,0 +1,59 @@
+header {
+    background-color: black; 
+    color:ghostwhite;
+    text-align-last: center; 
+    font-family: gabriola;  
+    height: 40px;  
+}
+.Titulopagina {
+    text-align-last: left;
+    margin-inline-start: 20px;
+    }
+nav {
+    background-color: rgba(230, 148, 139, 0.952); 
+    height: 80px;
+    display: flex;
+} 
+.Listadonavegacion {
+    font-family: agency fb;
+    font-size: 15px;
+    margin: 0 auto;
+    margin-inline-end: 20px;
+    display: flex;
+    gap: 80px;
+
+}
+section {
+    background-color: indianred;
+    color: ghostwhite;
+}
+footer {
+    background-color:black;
+    color: ghostwhite;
+    text-align-last: right;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+li {
+    display: flex;
+}
+h2 {
+    font-family: agency fb;
+    margin-left: 20px;
+}
+h3 {
+    font-family: agency fb;
+    text-align-last: right;
+}
+h5 {
+    font-family: agency fb;
+    margin-right: 20px;
+}
+form {
+    background-color: black;
+    color: ghostwhite;   
+}
+
+
